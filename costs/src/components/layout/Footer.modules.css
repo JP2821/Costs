@@ -13,21 +13,38 @@
 
 .social_list li{
     margin: 0 1em;
+    color:#fff;
 }
 
-.color_facebook:hover{
+.color_facebook a{
+    color:#fff;
+}
+
+.color_facebook a:hover{
     color: #3b5998;
 }
 
-.color_whatsapp:hover{
+.color_whatsapp a{
+    color: #fff;
+}
+
+.color_whatsapp a:hover{
     color: #34af23;
 }
 
-.color_instagram:hover{
+.color_instagram a{
+    color: #fff;
+}
+
+.color_instagram a:hover{
     color: #e95950;
 }
 
-.color_linkedin:hover{
+.color_linkedin a{
+    color: #fff;
+}
+
+.color_linkedin a:hover{
     color: #0e76a8;
 }
 

@@ -7,13 +7,13 @@ function Footer(){
         <footer className="footer">
             <ul className="social_list">
                 <li className="color_facebook">
-                    <FaFacebook/>
+                    <a href='https://www.facebook.com/'><FaFacebook/></a>
                 </li>
                 <li className="color_instagram">
-                    <FaInstagram/>
+                    <a href='https://www.instagram.com/'><FaInstagram/></a>
                 </li>
                 <li className="color_linkedin">
-                    <FaLinkedin/>
+                    <a href='https://www.linkedin.com/in/joao-pedro-079716228/'><FaLinkedin /></a>
                 </li>
                 <li className="color_whatsapp">
                     <FaWhatsapp/>
